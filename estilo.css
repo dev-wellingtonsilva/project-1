@@ -6,3 +6,8 @@ body{
     background: black;
 >>>>>>> whatsapp
 }
+
+header{
+
+    background-origin: border-box;
+}
